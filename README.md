@@ -7,3 +7,22 @@ YouTube: [Sass Tutorial for Beginners - CSS With Superpowers](https://www.youtub
 
 Project starts about 34:10 in.
 
+## Folders
+
+/css
+/dist
+/scss
+
+## Link
+
+    <link rel="stylesheet" href="/css/main.css">
+
+## Live Sass Compiler Settings
+
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ],
